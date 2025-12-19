@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Generador CIFIN (Varios Usuarios)
 
 Este script genera un archivo CIFIN\_INPUT.txt con líneas formateadas para múltiples números de cédula, según el estándar definido.
@@ -26,3 +27,6 @@ Abre una terminal en la carpeta donde guardaste el archivo:
 Ejecuta el script: python Cifin.py
 Sigue las instrucciones en pantalla: Ingresa los números de cédula separados por coma: ejemplo 10007952350,20004567891,30001234567
 El archivo CIFIN\_INPUT.txt se generará en la misma carpeta.
+=======
+# Cifin
+>>>>>>> 55c37330421616c5e3ad2904ef62e8d3b60a3a92
